@@ -5,16 +5,16 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "e555b7eeac85ea56341ac8a1105bdede"
+        API_ID = 6737493
+        BOT_TOKEN = "5260535533:AAHje0hPyiq0EU1mRaO1DWbA6J53Mr-0EAo"
+        BASE_URL_OF_BOT = "http://t.me/Tortoolkit0_bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
+        ALD_USR = [-1001604028844]
         OWNER_ID = 0
         
         # Google Drive Index Link should include the base dir also See readme for more info
